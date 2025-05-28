@@ -64,7 +64,7 @@ function Landing() {
           <div className="row align-items-center">
             <div className="col-md-4 text-center">
               <img
-                src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-5d54-61f8-87c1-245cbaae63bf/raw?se=2025-05-22T17%3A02%3A20Z&sp=r&sv=2024-08-04&sr=b&scid=69001c07-3ed7-5323-84b8-51d1fb36b45f&skoid=ea0c7534-f237-4ccd-b7ea-766c4ed977ad&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-22T16%3A36%3A59Z&ske=2025-05-23T16%3A36%3A59Z&sks=b&skv=2024-08-04&sig=fQ8ZVttr2fTBZi9EQ4UGkA/qQ0mokMbaAV%2BRASrnsKw%3D"
+                src="https://i.pinimg.com/236x/33/36/8f/33368f175a42bf70b942d7135de58497.jpg"
                 className="img-fluid"
                 alt="Secure Media Icon"
                 style={{ maxWidth: '250px' }}
