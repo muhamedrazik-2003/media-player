@@ -21,7 +21,7 @@ It allows you to **store, organize, and categorize** videos you’ve watched.
 
 - **Frontend:** React  
 - **Backend:** JSON Server  
-- **Styling:** CSS / Tailwind  
+- **Styling:** Bootstrap  
 - **State Management:** React Hooks  
 
 ---
